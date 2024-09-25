@@ -1,4 +1,3 @@
-// $Id$
 //Defines the top level Class
 function Class() { }
 Class.prototype.construct = function() {};
