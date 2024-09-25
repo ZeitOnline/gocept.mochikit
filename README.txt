@@ -61,6 +61,11 @@ need to include the following::
 Changes
 =======
 
+1.4.2.5 (unreleased)
+++++++++++++++++++++
+
+* Made Python-3 compatible
+
 1.4.2.4 (2009-05-22)
 ++++++++++++++++++++
 
